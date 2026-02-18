@@ -1,0 +1,9 @@
+
+{
+  "name": "Veda AI - Personalized Learning Assistant",
+  "description": "An all-in-one AI-powered platform for students featuring doubt-solving, quiz generation, notes summarization, and automated study planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
